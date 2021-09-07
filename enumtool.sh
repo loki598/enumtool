@@ -1,6 +1,20 @@
 #!/bin/sh
 
+ 
 #simple tool to make your enum easy
+
+
+echo " enumtool made by LegendLoki
+#####  #     # ######  ####### ######  #     #    #    ####### ####### 
+#     #  #   #  #     # #       #     # ##   ##   # #      #    #       
+#         # #   #     # #       #     # # # # #  #   #     #    #       
+#          #    ######  #####   ######  #  #  # #     #    #    #####   
+#          #    #     # #       #   #   #     # #######    #    #       
+#     #    #    #     # #       #    #  #     # #     #    #    #       
+ #####     #    ######  ####### #     # #     # #     #    #    ####### 
+
+"
+
 echo "input the ip " "if you want to scan a https website please wait till this tool is fully developed";
 
 read  ip
