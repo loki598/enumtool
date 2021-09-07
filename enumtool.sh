@@ -1,7 +1,7 @@
 #!/bin/sh
 
 #simple tool to make your enum easy
-echo "input the ip " "if you want to scan a https website please wait till the tool is fully developed";
+echo "input the ip " "if you want to scan a https website please wait till this tool is fully developed";
 
 read  ip
 
